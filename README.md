@@ -1,14 +1,15 @@
-# slack-sidebar-themes
+<h1 align="center">slack-sidebar-themes</h1>
 
-color themes for Slack sidebar
+<p align="center">color themes for Slack sidebar</p>
 
-## Installation
+<h2 align="center">Installation</h2>
 
 1. Copy these color codes.
 2. Open the following menu on slack app: `Preferences` -> `Themes`.
 3. Paste it into the `Colors` item.
 
-## Themes
+<h2 align="center">Themes</h2>
+
 
 ### 🧊 Iceberg Dark
 
