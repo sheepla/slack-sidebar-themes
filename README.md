@@ -49,3 +49,7 @@
 ```csv
 #191F22,#121016,#BDE6FB,#191F22,#131D1E,#BDE6FB,#0FA2E5,#E88056,#191F22,#BDE6FB
 ```
+
+<h2 align="center">License</h2>
+
+NOLICENSE
